@@ -1,4 +1,6 @@
-Fabric8 Eclipse Orion
+Eclipse Orion Docker
 ---------------------
-
-This project provides Docker packaging for the [Eclipse Orion](http://eclipse.org/orion/) web based IDE
+###run
+```
+docker run -d -p 8080:8080 --name orion orion
+```
