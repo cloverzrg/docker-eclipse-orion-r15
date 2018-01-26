@@ -2,5 +2,5 @@ Eclipse Orion Docker
 ---------------------
 ### run
 ```
-docker run -d -p 8080:8080 --name orion orion
+docker run -d -p 8080:8080 --name orion cloverzrg/eclipse-orion
 ```
